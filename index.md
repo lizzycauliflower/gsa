@@ -2,7 +2,7 @@
 
 <html>
 <head>
-  <title>GSA</title>
+  
   <link rel="stylesheet" type="text/css" href="main.css">
 </head>
 
