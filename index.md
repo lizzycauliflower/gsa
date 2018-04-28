@@ -18,5 +18,17 @@
       </ul>
     </div>
   </header>
+  
+      <div class="mainpicture">
+      
+    </div>
+    
+    <div id="left">
+      
+    </div>
+    <div id="right">
+    </div>
+    
+    <div id="bottom"></div>
  
 </html>
