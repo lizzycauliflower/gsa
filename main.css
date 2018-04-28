@@ -28,7 +28,7 @@
 }
 
 .nav a:hover {
-  background-color: #005f5f;
+  background-color: #EBBAB9;
 }
 
 .nav a.active {
@@ -37,7 +37,7 @@
   cursor: default;
 }
 
-@media screen and (min-width: 600px) {
+
   .nav li {
     width: 120px;
     border-bottom: none;
@@ -48,3 +48,29 @@
   .nav li {
     display: inline-block;
   }
+  
+.mainpicture {
+  background-color: #388697;
+  height:550px;
+  width:100%;
+}
+
+#left {
+  float:left;
+  background-color:#08415C;
+  height:500px;
+  width:50%;
+}
+
+#right {
+  float:right;
+  background-color:#08415C;
+  height:500px;
+  width:50%;
+}
+
+#bottom {
+  background-color:red;
+  height:200px;
+  width:100%;
+}
